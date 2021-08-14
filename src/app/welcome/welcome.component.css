@@ -1,0 +1,5 @@
+.card-body:hover {
+    box-shadow: 1px 1px 10px gray;
+    background-color: black;
+    color: white;
+}
